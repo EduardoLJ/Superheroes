@@ -1,0 +1,30 @@
+<!--
+  ~ Copyright (c) 2022 The Android Open Source Project
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~      http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <string name="app_name">Superheroes</string>
+    <string name="hero1">Mitad hombre, mitad persona</string>
+    <string name="description1">Persona-man</string>
+    <string name="hero2">The Fact</string>
+    <string name="description2">Arruina el ambiente con hechos cientificos</string>
+    <string name="hero3">Gigante Enano</string>
+    <string name="description3">Es como una persona, pero no</string>
+    <string name="hero4">Batman</string>
+    <string name="description4">Beisbolista de dia, vengador con un bate de noche</string>
+    <string name="hero5">El Charco</string>
+    <string name="description5">Cuando hace calor se vuelve intangible</string>
+    <string name="hero6">Piromaniaco</string>
+    <string name="description6">Te piropea 3 veces antes que toques la otra calle</string>
+</resources>
